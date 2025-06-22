@@ -32,11 +32,6 @@
   <img src="https://raw.githubusercontent.com/ahmedaldarabee/ahmedaldarabee/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
----
-
-<h2 align="center">📈 GitHub Stats</h2>
-
-
 
 ---
 
